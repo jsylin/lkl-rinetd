@@ -14,3 +14,13 @@ https://github.com/tcp-nanqinlang/lkl-rinetd/releases
 
 中文文档  
 https://github.com/tcp-nanqinlang/wiki/wiki/lkl-rinetd
+
+
+安装脚本命令：
+wget --no-check-certificate https://github.com/tcp-nanqinlang/lkl-rinetd/releases/download/1.1.0/tcp_nanqinlang-rinetd-debianorubuntu.sh
+
+chmod +x tcp_nanqinlang-rinetd-debianorubuntu.sh
+
+bash tcp_nanqinlang-rinetd-debianorubuntu.sh
+
+should be 443 and 80
